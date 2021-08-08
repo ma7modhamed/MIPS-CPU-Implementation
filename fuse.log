@@ -1,0 +1,100 @@
+Running: C:\Xilinx\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/RobotTest_isim_beh.exe -prj F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/RobotTest_beh.prj work.RobotTest 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/three_modules_pack.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Mux2.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Mux1.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/full_adder.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File_Pack.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Reg.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/MUX.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Decoder.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/ALU_Pack.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/ALU_1bit.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/SignExtension.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" into library work
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 88: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 89: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 90: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 91: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 92: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 93: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 94: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 95: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 96: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 97: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 98: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 99: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 100: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 101: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 102: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 103: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 104: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 105: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 106: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 107: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 108: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 109: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 110: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 111: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 112: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 113: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 114: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 115: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 116: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 117: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 118: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.vhd" Line 119: Actual for formal port ld is neither a static name nor a globally static expression
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/MUX2x1.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/InstMem.V3.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/GenericFullAdder.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Datamem.V4.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/CU_module.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/CPU_Pack.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/ALU_Control.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/ALU_32bit.vhd" into library work
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/MainModule.vhd" into library work
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/MainModule.vhd" Line 87: Actual for formal port clr is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/MainModule.vhd" Line 90: Actual for formal port loadit is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/MainModule.vhd" Line 111: Actual for formal port loadit is neither a static name nor a globally static expression
+Parsing VHDL file "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/RobotTest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package cpu_pack
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package std_logic_signed
+Compiling package textio
+Compiling package std_logic_textio
+Compiling package register_file_pack
+Compiling package alu_pack
+Compiling architecture behavioral of entity Reg [\Reg(32)\]
+Compiling architecture behavioral of entity GenericFullAdder [\GenericFullAdder(32)\]
+Compiling architecture behavioral of entity INSTRMEMORY [\INSTRMEMORY(64,32,32)\]
+Compiling architecture behavioral of entity CU_module [cu_module_default]
+Compiling architecture behavioral of entity ALU_Control [alu_control_default]
+Compiling architecture behavioral of entity Decoder [decoder_default]
+Compiling architecture behavioral of entity MUX [mux_default]
+Compiling architecture behavioral of entity Register_File [\Register_File(32)\]
+Compiling architecture behavioral of entity MUX2x1 [\MUX2x1(5)\]
+Compiling package three_modules_pack
+Compiling architecture behavioral of entity Mux1 [mux1_default]
+Compiling architecture behavioral of entity full_adder [full_adder_default]
+Compiling architecture behavioral of entity Mux2 [mux2_default]
+Compiling architecture behavioral of entity ALU_1bit [alu_1bit_default]
+Compiling architecture behavioral of entity ALU_32bit [alu_32bit_default]
+Compiling architecture behavioral of entity SignExtension [signextension_default]
+Compiling architecture behavioral of entity MUX2x1 [\MUX2x1(32)\]
+Compiling architecture behavioral of entity DATAMEMORY [\DATAMEMORY(64,32,32)\]
+Compiling architecture behavioral of entity MainModule [mainmodule_default]
+Compiling architecture behavior of entity robottest
+Time Resolution for simulation is 1ps.
+Waiting for 22 sub-compilation(s) to finish...
+Compiled 48 VHDL Units
+Built simulation executable F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/RobotTest_isim_beh.exe
+Fuse Memory Usage: 36276 KB
+Fuse CPU Usage: 1030 ms

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/CU_module.xst" -ofn "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/CU_module.syr" 

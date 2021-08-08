@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Main_Module_Project/Register_File.xst" -ofn "D:/Main_Module_Project/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Main_Module_Project/Register_File.xst" -ofn "D:/Main_Module_Project/Register_File.syr" 
+xst -intstyle ise -ifn "D:/Main_Module_Project/Register_File.xst" -ofn "D:/Main_Module_Project/Register_File.syr" 
+xst -intstyle ise -ifn "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.xst" -ofn "F:/Faculty of Computers and Informatics/3rd Year/Second Term/Computer Architecture/project/Main_Module_Project/Register_File.syr" 

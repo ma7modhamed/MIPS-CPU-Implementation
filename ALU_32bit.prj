@@ -1,0 +1,7 @@
+vhdl work "three_modules_pack.vhd"
+vhdl work "Mux2.vhd"
+vhdl work "Mux1.vhd"
+vhdl work "full_adder.vhd"
+vhdl work "ALU_Pack.vhd"
+vhdl work "ALU_1bit.vhd"
+vhdl work "ALU_32bit.vhd"
